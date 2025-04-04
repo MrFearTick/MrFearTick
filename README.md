@@ -2,12 +2,13 @@
 
 
 * My name is **MrFearTick**, and i have been coding for **4 years.**
-* I am 14 and have mostly used **LUA**, Currently learning **Java** for FRC (First Robotics Competation)
+* I am 15 and have mostly used **LUA**, Currently learning **Java** for FRC (First Robotics Competation), also started using TypeScript.
 
 | Coding Language | |
 | :--- | :--- |
 | `LUA` | **4 Years** |
-| `Java` | **3 Months** |
+| `Java` | **9 Months** |
+| `TypeScript` | **1 Months** |
 
 # 
 
