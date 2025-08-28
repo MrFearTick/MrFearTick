@@ -12,17 +12,16 @@
 | `Golang` | **1 Month** |
 
 | Frameworks | |
-| :--- | :--- |
+| :--- |
 | `ROBLOX` |
 | `WPILib` |
 | `React` |
 | `Gin` |
 
 | Languages / Frameworks i want to learn. | |
-| :--- | :--- |
-| `C++` |
-| `Rust` |
-| `nextJS` |
+* `C++` |
+* `Rust` |
+* `nextJS` |
 
 # 
 
