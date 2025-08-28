@@ -11,10 +11,12 @@
 | `JavaScript` / `TypeScript` | `React` | **3 Months** |
 | `Golang` | `Gin` | **1 Month** |
 
-| Languages / Frameworks i want to learn. | |
-* `C++` 
-* `Rust` 
-* `nextJS` 
+| Languages / Frameworks i want to learn. |
+| :--- |
+| `C++` |
+| `Rust` |
+| `C#` |
+| `nextJS` |
 
 # 
 
