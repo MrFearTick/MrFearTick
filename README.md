@@ -6,17 +6,10 @@
 
 | Coding Language | Frameworks | |
 | :--- | :--- | :--- |
-| `Lua` / `Luau` | **3 Years** |
-| `Java` | **1 Year** |
-| `JavaScript` / `TypeScript` | **3 Months** |
-| `Golang` | **1 Month** |
-
-| Frameworks |
-| :--- |
-| `ROBLOX` |
-| `WPILib` |
-| `React` |
-| `Gin` |
+| `Lua` / `Luau` | `ROBLOX` | **3 Years** |
+| `Java` | `WPILib` | **1 Year** |
+| `JavaScript` / `TypeScript` | `React` | **3 Months** |
+| `Golang` | `Gin` | **1 Month** |
 
 | Languages / Frameworks i want to learn. | |
 * `C++` 
