@@ -4,14 +4,14 @@
 * My name is **MrFearTick**, and i have been coding for **4 years.**
 * I am 15 and have mostly interested myself in programming and maths. 
 
-| Coding Language | |
-| :--- | :--- |
+| Coding Language | Frameworks | |
+| :--- | :--- | :--- |
 | `Lua` / `Luau` | **3 Years** |
 | `Java` | **1 Year** |
 | `JavaScript` / `TypeScript` | **3 Months** |
 | `Golang` | **1 Month** |
 
-| Frameworks | |
+| Frameworks |
 | :--- |
 | `ROBLOX` |
 | `WPILib` |
@@ -19,9 +19,9 @@
 | `Gin` |
 
 | Languages / Frameworks i want to learn. | |
-* `C++` |
-* `Rust` |
-* `nextJS` |
+* `C++` 
+* `Rust` 
+* `nextJS` 
 
 # 
 
