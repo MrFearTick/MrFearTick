@@ -8,7 +8,7 @@
 | :--- | :--- | :--- |
 | `Lua` / `Luau` | `ROBLOX` | **3 Years** |
 | `Java` | `WPILib` | **1 Year** |
-| `JavaScript` / `TypeScript` | `React` | **3 Months** |
+| `JavaScript` / `TypeScript` | `React & Expo` | **3 Months** |
 | `Golang` | `Gin` | **1 Month** |
 
 | Languages / Frameworks i want to learn. |
