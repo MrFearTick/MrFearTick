@@ -9,12 +9,11 @@
 | `Lua` / `Luau` | `ROBLOX` | **3 Years** |
 | `Java` | `WPILib` | **1 Year** |
 | `JavaScript` / `TypeScript` | `React, Expo` | **3 Months** |
+| `Rust` | `actix-web` | **1 Month** |
 | `Golang` | `Gin` | **1 Month** |
 
 | Languages / Frameworks i want to learn. |
 | :--- |
-| `C++` |
-| `Rust` |
 | `C#` |
 | `nextJS` |
 
